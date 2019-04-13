@@ -1,0 +1,12 @@
+# Tarballs #
+*.gz
+*.xz
+*.zip
+
+# Backup files #
+*.swp
+*.un~
+
+# ready dir
+pluginready/
+pluginready.sh
