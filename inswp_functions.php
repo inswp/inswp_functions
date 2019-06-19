@@ -1,14 +1,14 @@
 <?php
 /* *
- * Plugin Name: inswp custom functions
+ * Plugin Name: InsWP Custom Functions
  * Plugin URI: https://github.com/inswp/inswp_functions/
  * Description: Custom functions for WordPress
  * Author: insomnux
  * License: GPLv3
  * License URI: http://www.gnu.org/licenses
  * Text Domain: inswp_functions
- * Version: 0.10.1
- * Author URI: //github.com/insomnux
+ * Version: 0.12.2
+ * Author URI: //github.com/inswp
  * */
 
 // If this file is called directly, abort.

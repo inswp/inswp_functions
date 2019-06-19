@@ -1,7 +1,7 @@
 === Functions for WP 4.7.0+ ===
 
 Requires at least: 4.7.x
-Tested up to: 5.1.1
+Tested up to: 5.2.2
 Stable tag: 0.10.1
 
 Custom functions for WordPress
@@ -17,6 +17,8 @@ Custom functions for WordPress
 
 == Changelog ==
 
++ 20190619: Tested with 5.2.2
+            Version bumped to 0.12.2
 + 20190413: Tested with 5.1.1
             Version bumped to 0.10.1
 + 20190213: Version to 0.9.10
